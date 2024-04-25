@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+}
+
+#like {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#likebtn {
+  background-color: gray;
+  border: none;
+  height: 50px;
+  width: 50px;
+  font-size: 25px;
+}
+#count {
+  background-color: yellow;
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+  margin-top: 1px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 28px;
+}
